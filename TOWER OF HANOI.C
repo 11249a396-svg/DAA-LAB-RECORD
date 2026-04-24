@@ -38,17 +38,7 @@ int main() {
 
     return 0;
 }
-Output:
-Input:
-Enter number of disks: 3
-Output:
-Move disk 1 from A to C
-Move disk 2 from A to B
-Move disk 1 from C to B
-Move disk 3 from A to C
-Move disk 1 from B to A
-Move disk 2 from B to C
-Move disk 1 from A to C
+
 
 Result:
 The program for solving the Tower of Hanoi problem using recursion was successfully executed.
