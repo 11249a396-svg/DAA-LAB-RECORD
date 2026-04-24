@@ -61,19 +61,7 @@ int main() {
     return 0;
 }
 
-Output:
-Input:
-Enter number of vertices: 4
-Enter adjacency matrix:
-0 2 3 6
-2 0 1 4
-3 1 0 5
-6 4 5 0
-Output:
-Edges in MST:
-Edge cost: 2
-Edge cost: 1
-Edge cost: 4
+
 
 Result:
 The program to find the Minimum Spanning Tree using Prim’s Algorithm was successfully executed.
