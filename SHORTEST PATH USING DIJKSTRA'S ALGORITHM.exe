@@ -1,0 +1,15 @@
+Output:
+Input:
+Enter number of vertices: 4
+Enter adjacency matrix:
+0 2 4 999
+2 0 1 7
+4 1 0 3
+999 7 3 0
+Enter source vertex: 0
+Output:
+Shortest distances:
+0 -> 0 = 0
+0 -> 1 = 2
+0 -> 2 = 3
+0 -> 3 = 6
