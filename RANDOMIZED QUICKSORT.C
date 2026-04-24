@@ -83,14 +83,6 @@ int main() {
     return 0;
 }
 
-Output:
-Input:
-Enter number of elements: 5
-Enter elements:
-9 3 7 1 5
-Output:
-Sorted array:
-1 3 5 7 9
 
 Result:
 The program for Randomized Quick Sort was successfully executed.
