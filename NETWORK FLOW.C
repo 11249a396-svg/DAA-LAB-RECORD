@@ -45,19 +45,7 @@ int main() {
     printf("Maximum flow: %d\n", flow);
     return 0;
 
-Input:
 
-Enter number of vertices: 4
-Enter capacity matrix:
-0 3 2 0
-0 0 5 2
-0 0 0 3
-0 0 0 0
-Enter source and sink: 0 3
-
-Output:
-
-Maximum flow: 5
 
 Result:
 The program to compute maximum flow in a network was successfully executed.
