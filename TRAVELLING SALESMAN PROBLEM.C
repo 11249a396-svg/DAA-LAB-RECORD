@@ -65,16 +65,7 @@ int main() {
     return 0;
 }
 
-Output:
-Input:
-Enter number of cities: 4
-Enter cost matrix:
-0 10 15 20
-10 0 35 25
-15 35 0 30
-20 25 30 0
-Output:
-Minimum tour cost: 80
+
 
 Result:
 The program for solving the Travelling Salesman Problem using recursion was successfully executed.
