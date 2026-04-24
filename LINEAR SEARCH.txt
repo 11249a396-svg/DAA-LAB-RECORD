@@ -1,0 +1,3 @@
+OUTPUT:
+Element found @ position 537
+Total time taken: 0.000002
