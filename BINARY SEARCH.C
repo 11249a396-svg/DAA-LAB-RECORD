@@ -113,12 +113,7 @@ int main() {
     return 0;
 }
 
-Output:
-Input:
-Enter key to search: 500
-Output (example):
-Key found at index: 4321
-Time taken for Binary Search: 0.000001 sec
+
 
 Result:
 
