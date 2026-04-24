@@ -55,9 +55,7 @@ int main()
     return 0;
 }
 
-OUTPUT:
-Element found @ position 537
-Total time taken: 0.000002
+
 
 RESULT:
 The recursive linear search program was successfully executed.
