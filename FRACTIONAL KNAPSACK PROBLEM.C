@@ -86,14 +86,6 @@ int main()
     return 0;
 }
 
-Output:
-Input:
-Enter the no of items: 3
-Enter the weight of each items: 10 20 30
-Enter the price of each packets in a packed items: 60 100 120
-Enter the capacity of bin: 50
-Output:
-Maximum profit: 240.000000
 
 Result:
 The program for solving the Fractional Knapsack Problem using a greedy approach was successfully executed.
