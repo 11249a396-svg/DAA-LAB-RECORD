@@ -42,20 +42,7 @@ int main() {
     return 0;
 }
 
-Output:
-Input:
-Enter number of vertices: 4
-Enter adjacency matrix:
-0 1 1 0
-1 0 1 1
-1 1 0 1
-0 1 1 0
 
-Output:
-
-Vertex Cover:
-0 1
-2 3
 
 Result:
 The greedy approximation algorithm for the Vertex Cover problem was successfully implemented.
