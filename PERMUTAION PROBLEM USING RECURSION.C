@@ -67,19 +67,7 @@ int main()
     return 0;
 }
 
-Output:
-Input:
-Enter total number of elements: 3
-Enter elements:
-1 2 3
-Output:
-Permutations are:
-1	2	3
-1	3	2
-2	1	3
-2	3	1
-3	2	1
-3	1	2
+
 
 Result:
 The program to generate all permutations of given elements using recursion was successfully executed.
