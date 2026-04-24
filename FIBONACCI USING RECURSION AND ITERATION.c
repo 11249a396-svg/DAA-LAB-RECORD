@@ -48,12 +48,6 @@ int main() {
     return 0;
 }
 
-Output:
-Input:
-Enter n: 6
-Output:
-Recursive Fibonacci: 8
-Iterative Fibonacci: 8
 
 Result:
 
